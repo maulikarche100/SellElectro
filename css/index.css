@@ -64,7 +64,7 @@
     border-radius: 10px;
     border: 2px solid grey;
     box-shadow: 0 0 10px grey;
-    background-color: green;
+    background-color: blue;
     margin: 20px;
     margin-top: 40px;
     width: 200px;
@@ -90,7 +90,7 @@
 
 }
 .btn2:hover{
-    background-color: green;
+    background-color: blue;
     color: white;
 }
 .electro-products-img{
@@ -103,4 +103,11 @@
     height: 500px;
     margin-top: 100px;
     background-color: red;
+}
+.selling-products{
+    font-family: cursive;
+    text-align: center;
+}
+.selling-products-1{
+    color: gold;
 }
