@@ -12,4 +12,5 @@ function showMenu() {
 }
 function hideMenu() {
   document.getElementById('menuItems').style.left="-300px"
+  
 }
