@@ -1,4 +1,0 @@
-  
-         function showSlides() {
-            let i;
-         }
